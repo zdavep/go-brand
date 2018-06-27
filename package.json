@@ -1,0 +1,22 @@
+{
+    "name": "go-brand",
+    "displayName": "Go - Brand",
+    "description": "A color scheme inspired by the Go Brand book",
+    "version": "0.0.1",
+    "publisher": "zdavep",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Go - Brand",
+                "uiTheme": "vs",
+                "path": "./themes/go-brand-color-theme.json"
+            }
+        ]
+    }
+}
