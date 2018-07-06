@@ -8,6 +8,7 @@
 		"editor.rangeHighlightBackground": "#5DC9E279",
 		"editor.lineHighlightBackground": "#ecebeb",
 		"editorLineNumber.foreground": "#cccccc",
+		"editorLineNumber.activeForeground": "#402b56",
 		"statusBar.foreground": "#555759",
 		"statusBar.noFolderForeground": "#555759",
 		"statusBar.background": "#ffffff",
